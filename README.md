@@ -5,9 +5,7 @@
 [![](https://raw.githubusercontent.com/masakifujiwara1/masakifujiwara1/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![trophy](https://github-profile-trophy.vercel.app/?username=masakifujiwara1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
